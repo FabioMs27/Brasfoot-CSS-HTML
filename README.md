@@ -19,19 +19,19 @@
 <tr>
 <td id='Fábio Sousa'>
 <a href='https://github.com/FabioMs27'>
-<img src=https://github.com/FabioMs27.png?=140>
+<img src=https://github.com/FabioMs27.png?=50>
 </a>
 </td>
 <td id='Gabriel Gonçalves'>
 <a href='https://github.com/GuimaraesGabrielG'>
-<img src=https://github.com/GuimaraesGabrielG.png?=140>
+<img src=https://github.com/GuimaraesGabrielG.png?=50>
 </a>
 </td>
 </table>
 
 - - - -
 
-## Lisence
+## License
 
 Copyright 2020 Fábio Sousa e Gabriel Gonçalves.
 
